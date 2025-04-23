@@ -26,9 +26,15 @@ Este proyecto de ciencia de datos tiene como objetivo ayudar al Sr. Juan, dueño
 6. **Visualizaciones**  
    Gráficos de barras, tortas y líneas para facilitar la comparación visual entre tiendas.
 
-## 🧠 Conclusión
+## 🚀 Instrucciones para Ejecutar el Notebook
 
-El análisis culmina con una **recomendación** basada en datos sobre cuál tienda resulta menos eficiente en términos generales y, por lo tanto, sería la mejor candidata para ser vendida.
+1. Descarga el archivo `AluraStoreLatam.ipynb`.
+2. Abre una terminal o entorno de desarrollo.
+3. Lanza Jupyter con el comando:
+4. Abre el archivo desde el navegador que se abre automáticamente.
+5. Ejecuta las celdas en orden para visualizar el análisis completo y la recomendación final
+```bash
+jupyter notebook
 
 ## ⚙️ Requisitos
 
